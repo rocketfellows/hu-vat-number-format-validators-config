@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1683147731">
-  <project timestamp="1683147731">
+<coverage generated="1683148018">
+  <project timestamp="1683148018">
     <file name="/app/src/HUVatNumberFormatValidatorsConfig.php">
       <class name="rocketfellows\HUVatNumberFormatValidatorsConfig\HUVatNumberFormatValidatorsConfig" namespace="global">
         <metrics complexity="2" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
